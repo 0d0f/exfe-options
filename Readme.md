@@ -3,3 +3,4 @@ Devopts
 
 ## Configs
   * nginx
+  * lighttpd
