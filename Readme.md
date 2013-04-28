@@ -1,4 +1,4 @@
-Devopts
+Devops
 -------
 
 ## Configs
